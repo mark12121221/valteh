@@ -14,6 +14,7 @@ liet N3dekl;
 piekab N5deklj;
 bild N5deklj;
 ast N5dekl;
+akmen N2dekl;
 
 LEXICON N1deklš					
 +N+Sg+Nom:^š  # ;
@@ -75,3 +76,15 @@ LEXICON N5dekl
 +N+Pl+Dat:^ēm # ;
 +N+Pl+Acc:^es # ;
 +N+Pl+Loc:^ēs # ;
+
+LEXICON N2dekl
++N+Sg+Nom:^is  # ;
++N+Sg+Gen:^Ma # ;
++N+Sg+Dat:^im # ;
++N+Sg+Acc:^i # ;
++N+Sg+Loc:^ī # ;
++N+Pl+Nom:^Mi  # ;
++N+Pl+Gen:^Mu  # ;
++N+Pl+Dat:^Miem # ;
++N+Pl+Acc:^Mus # ;
++N+Pl+Loc:^Mos # ;
