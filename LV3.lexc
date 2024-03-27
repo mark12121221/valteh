@@ -51,7 +51,7 @@ LEXICON N3dekl
 +N+Pl+Acc:^us # ;
 +N+Pl+Loc:^os # ;
 
-LEXICON N5deklj;
+LEXICON N5deklj
 +N+Sg+Nom:^e  # ;
 +N+Sg+Gen:^Mu # ;
 +N+Sg+Dat:^ei # ;
@@ -64,7 +64,7 @@ LEXICON N5deklj;
 +N+Pl+Loc:^ēs # ;
 
 
-LEXICON N5dekl;
+LEXICON N5dekl
 +N+Sg+Nom:^e  # ;
 +N+Sg+Gen:^es # ;
 +N+Sg+Dat:^ei # ;
